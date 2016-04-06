@@ -319,8 +319,7 @@ This command will send text to [group_id]
 *Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only admins and sudo can use res, setowner, commands
-]],
-    help_text = [[
+]],sudo @zendegi_konet_gaidam    help_text = [[
 Commands list :
 
 !kick [username|id]
